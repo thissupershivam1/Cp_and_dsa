@@ -2,3 +2,4 @@
 *.prob
 temp_*
 .cph/
+.vscode
